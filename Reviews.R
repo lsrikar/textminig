@@ -21,5 +21,4 @@ Corpus  = tm_map(Corpus,stemDocument)
 
 Corpus = tm_map(Corpus, stripWhitespace)
 
-# Corpus = tm_map(Corpus, StemDocument) 
 
